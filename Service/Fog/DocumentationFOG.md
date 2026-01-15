@@ -142,7 +142,7 @@ Sur un autre PC, sur la page de gestion du FOG :
 > [!NOTE]
 > Dans la liste des Template, Windows 11 n'apparaît pas, c'est normal. Gardez Windows 10.
 
-<img title="" src="file:///home/alex/Documents/Documentation/Service/Fog/Image/image.png" alt="">
+![](/Image/image.png)
 
 ### 2. Installer FOG Client sur la machine source
 

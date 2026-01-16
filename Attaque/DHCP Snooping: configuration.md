@@ -2,7 +2,7 @@
 - [DHCP Snooping: configuration](#dhcp-snooping-configuration)
   - [Kali](#kali)
   - [DHCP](#dhcp)
-    - [Instalation de ``isc-dhcp-server``](#instalation-de-isc-dhcp-server)
+    - [Instalation de isc-dhcp-server](#instalation-de-isc-dhcp-server)
     - [1er fichier de configuration](#1er-fichier-de-configuration)
     - [Fichier de configuration pour la zone DHCP ipv4](#fichier-de-configuration-pour-la-zone-dhcp-ipv4)
   - [Défense contre le DHCP spoofing (sur la gig0/1)](#défense-contre-le-dhcp-spoofing-sur-la-gig01)
@@ -26,7 +26,7 @@ sudo tcpdump -i eth0 port 67 or port 68
 
 ## DHCP
 
-### Instalation de ``isc-dhcp-server``
+### Instalation de isc-dhcp-server
 
 ```bash
 sudo apt install isc-dhcp-server

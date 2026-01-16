@@ -13,7 +13,7 @@
     - [Expiration de la table d'adresses MAC](#expiration-de-la-table-dadresses-mac)
     - [Éteindre les interfaces lors d'une détection de violation](#éteindre-les-interfaces-lors-dune-détection-de-violation)
 
-
+---
 ## Kali
 
 ```bash

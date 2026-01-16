@@ -139,7 +139,7 @@ Sur un autre PC, sur la page de gestion du FOG :
 - Aller dans **Image Management**
 - Créer une nouvelle image pour Windows
 
-![alt text](Image/image.png)
+![alt text](Image/créationd'image.png)
 
 > [!NOTE]
 > Dans la liste des Template, Windows 11 n'apparaît pas, c'est normal. Gardez Windows 10.

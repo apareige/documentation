@@ -1,4 +1,18 @@
 # DHCP Snooping: configuration
+- [DHCP Snooping: configuration](#dhcp-snooping-configuration)
+  - [Kali](#kali)
+  - [DHCP](#dhcp)
+    - [Instalation de ``isc-dhcp-server``](#instalation-de-isc-dhcp-server)
+    - [1er fichier de configuration](#1er-fichier-de-configuration)
+    - [Fichier de configuration pour la zone DHCP ipv4](#fichier-de-configuration-pour-la-zone-dhcp-ipv4)
+  - [Défense contre le DHCP spoofing (sur la gig0/1)](#défense-contre-le-dhcp-spoofing-sur-la-gig01)
+    - [pasage en monde admin](#pasage-en-monde-admin)
+    - [Activer le DHCP Snooping (protection contre les attaques liées au DHCP (en conf t)](#activer-le-dhcp-snooping-protection-contre-les-attaques-liées-au-dhcp-en-conf-t)
+    - [Faire confiance à une interface (CELLE DU SERVEUR DHCP)](#faire-confiance-à-une-interface-celle-du-serveur-dhcp)
+    - [Protection contre le DHCP starvation (bouffe 4 adresses IP grand max)](#protection-contre-le-dhcp-starvation-bouffe-4-adresses-ip-grand-max)
+    - [Expiration de la table d'adresses MAC](#expiration-de-la-table-dadresses-mac)
+    - [Éteindre les interfaces lors d'une détection de violation](#éteindre-les-interfaces-lors-dune-détection-de-violation)
+
 
 ## Kali
 

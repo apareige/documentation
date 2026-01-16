@@ -155,6 +155,8 @@ Sur un autre PC, sur la page de gestion du FOG :
    - Remplacer `fog.company.com` par l'IP de votre FOG
    - Cliquer sur **Next** et l'installation est finie
 
+![alt text](Image/fogclient.png)
+
 ### 3. Approuver la machine dans FOG
 
 Désormais il faut approuver la machine dans l'interface FOG. L'installation de FOG Client est finie.

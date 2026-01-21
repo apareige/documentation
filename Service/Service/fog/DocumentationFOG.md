@@ -79,7 +79,7 @@
 6. **Suivre les instructions de l'installeur**
 
 > [!WARNING]
-> Activer HTTPS peut causer des problèmes !
+>Activer le HTTPS dans certaines conditions peut causer des problèmes ! (cela reste rare)
 
 > 
 

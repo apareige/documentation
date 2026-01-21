@@ -188,6 +188,9 @@ Get-AppxPackage MicrosoftWindows.Client.WebExperience | Remove-AppxPackage
 
 > [!TIP]
 > Remplacez par exemple `Microsoft.OneDriveSync` par ce qui cause l'erreur et relancez sysprep jusqu'à réussite.
+> [!WARNING]
+> 
+> Après 3 essais, il faut réinstaller Windows au complet (limite sysprep)
 
 ### 6. Créer la tâche de capture
 

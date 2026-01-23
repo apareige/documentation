@@ -76,7 +76,7 @@
    sudo ./installfog.sh
    ```
 
-6. **Suivre les instructions de l'installeur**
+6. **Suivre les instructions du programme d'installation**
 
 > [!WARNING]
 >Activer le HTTPS dans certaines conditions peut causer des problèmes ! (cela reste rare)

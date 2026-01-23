@@ -70,7 +70,7 @@
    cd /fogproject/bin
    ```
 
-5. **Lancer l'installeur de FOG**
+5. **Lancer le programme d'installation de FOG**
    
    ```bash
    sudo ./installfog.sh

@@ -50,7 +50,7 @@ Switch(config)# end
 
 ### Configuration du client VTP
 
->[!TIPS]
+>[!TIP]
 > Le trunk entre le switch VTP Server et le switch VTP Client doit être configuré avant de configurer le VTP Client.
 
 

@@ -113,10 +113,12 @@ openssl genrsa 4096 > XXXX.key
 ```
 
 ### Ensuite, il faut préparer une demande de certificat (CSR(Certificate Signing Request)) 
-cette demande doit être envoyée à l’autorité de certification :
+- cette demande doit être envoyée à l’autorité de certification :
+
 ```bash
-/opt/ca# openssl req -new -key pfXX.key >pfXX.csr
+openssl req -new -key pfXX.key >pfXX.csr
 ```
+
 ```bash
 You are about to be asked to enter information that will be incorporated
 into your certificate request.
